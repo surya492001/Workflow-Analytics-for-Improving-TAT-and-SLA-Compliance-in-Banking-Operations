@@ -1,60 +1,7 @@
-# HR-Analytics-Dashboard
-Interactive Power BI HR dashboard showing attrition analysis and predictive insights to help improve employee retention.
+# Workflow Analytics for Improving Turnaround Time and Service Level
+#Overview
 
+Budget approval workflows in banking development environments suffer from multi-stakeholder dependencies, hierarchical authorisation structures, and recurring rework cycles that cause chronic processing delays and SLA non-compliance. Existing monitoring tools provide only aggregate-level reporting — offering no stage-level diagnostic capability or predictive intelligence for proactive governance.
 
-#Problem Statement:
-The HR team struggles to track employee attrition and engagement trends. Data is stored in different HRMS systems.
-
-#Objective:
-Build a Power BI HR analytics dashboard showing attrition by department, tenure, and performance rating. Include predictive indicators for employee turnover.
-
-#Dataset:
-
-IBM HR Analytics Employee Attrition & Performance Data
-
-#About Dataset
-Uncover the factors that lead to employee attrition and explore important questions such as ‘show me a breakdown of distance from home by job role and attrition’ or ‘compare average monthly income by education and attrition’. This is a fictional data set created by IBM data scientists.
-
-#Education
-1 'Below College'
-2 'College'
-3 'Bachelor'
-4 'Master'
-5 'Doctor'
-
-#EnvironmentSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
-
-#JobInvolvement
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
-
-#JobSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
-
-#PerformanceRating
-1 'Low'
-2 'Good'
-3 'Excellent'
-4 'Outstanding'
-
-#RelationshipSatisfaction
-1 'Low'
-2 'Medium'
-3 'High'
-4 'Very High'
-
-#WorkLifeBalance
-1 'Bad'
-2 'Good'
-3 'Better'
-4 'Best'
+This project addresses that gap through a structured, data-driven analytical study using process mining, synthetic data generation, Decision Tree classification, and interactive dashboard development.
 
