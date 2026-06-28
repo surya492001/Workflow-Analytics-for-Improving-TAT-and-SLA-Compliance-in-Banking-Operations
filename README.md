@@ -178,69 +178,6 @@ The application is locally deployable via R Shiny and publishable to a web serve
 
 ---
 
-## Project Structure
-
-```
-├── data/
-│   ├── raw/                   # Original anonymised event log (15 instances)
-│   └── augmented/             # SDV-augmented dataset (70 instances)
-│
-├── src/
-│   ├── python/
-│   │   ├── sdv_synthesis.py   # Synthetic data generation (SDV PARSynthesizer)
-│   │   ├── preprocessing.py   # Event log cleaning and TAT computation
-│   │   └── visualization.py   # Descriptive analytics charts and heatmaps
-│   │
-│   └── r/
-│       ├── decision_tree.R    # Model training, evaluation, feature importance
-│       └── shiny_app.R        # SLA Violation Prediction System (Shiny UI + Server)
-│
-├── dashboard/
-│   └── SLA_Monitoring.pbix    # Power BI dashboard file
-│
-├── reports/
-│   └── Final_Report.pdf       # Full project report
-│
-└── README.md
-```
-
----
-
-## Setup & Usage
-
-### Python (Data Preparation & Synthetic Augmentation)
-
-```bash
-pip install pandas numpy sdv openpyxl seaborn matplotlib
-
-# Run synthetic data generation
-python src/python/sdv_synthesis.py
-
-# Run preprocessing
-python src/python/preprocessing.py
-
-# Generate visualisations
-python src/python/visualization.py
-```
-
-### R (Decision Tree & Shiny App)
-
-```r
-install.packages(c("rpart", "rpart.plot", "caret", "shiny"))
-
-# Train and evaluate the Decision Tree model
-source("src/r/decision_tree.R")
-
-# Launch the Shiny prediction application
-shiny::runApp("src/r/shiny_app.R")
-```
-
-### Power BI Dashboard
-
-Open `dashboard/SLA_Monitoring.pbix` in Power BI Desktop and connect to the augmented dataset.
-
----
-
 ## Recommendations
 
 Based on analytical findings, five targeted interventions are proposed:
@@ -264,20 +201,6 @@ Based on analytical findings, five targeted interventions are proposed:
 - Tax et al. (2025). Process discovery for event logs with multi-occurrence event types. *Algorithms*, 18(2), 83.
 
 ---
-
-## Academic Context
-
-| Field | Detail |
-|-------|--------|
-| Institution | BITS Pilani – Work Integrated Learning Programmes Division (WILPD) |
-| Programme | MBA in Business Analytics |
-| Course | S2-25_MBAZG622T – Final Project Report |
-| Project Area | Operation Management / Predictive Analytics |
-| Submission Date | May 2026 |
-| Final Grade | **Excellent** |
-
----
-
 ## License
 
 This project is for academic and portfolio purposes. The dataset used is fully anonymised and contains no personally identifiable information or confidential organisational records.
