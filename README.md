@@ -167,6 +167,10 @@ Three interconnected views:
 
 <img width="1020" height="561" alt="image" src="https://github.com/user-attachments/assets/7e4c928a-5272-4a42-b350-9edae17e3a0b" />
 
+<img width="1026" height="604" alt="image" src="https://github.com/user-attachments/assets/c14b6bae-9a00-41ef-9aef-36c479f01495" />
+
+<img width="1020" height="572" alt="image" src="https://github.com/user-attachments/assets/944fefe0-3d49-4081-96b1-14a696ccfcdb" />
+
 
 ---
 
@@ -178,6 +182,9 @@ An interactive R Shiny application that enables non-technical stakeholders to ob
 **Output:** Predicted SLA Status (Within SLA / Violation / Not Applicable) with full Decision Tree visualisation and highlighted classification path
 
 The application is locally deployable via R Shiny and publishable to a web server for organisation-wide access.
+
+<img width="667" height="576" alt="image" src="https://github.com/user-attachments/assets/9a2e4ecf-b620-48c0-b8c2-ef413631c939" />
+
 
 ---
 
