@@ -1,4 +1,4 @@
-# Workflow Analytics for Improving Turnaround Time and SLA Compliance in Banking Operations
+<img width="1020" height="561" alt="image" src="https://github.com/user-attachments/assets/75a932af-1639-4fdf-a6cb-3c06b68df11f" /># Workflow Analytics for Improving Turnaround Time and SLA Compliance in Banking Operations
 
 > **MBA Capstone Project** | BITS Pilani – Business Analytics (CGPA: 9.0/10)  
 > **Author:** Suryanarayan Satheesh Pillai | **ID:** 2024MB21248  
@@ -164,6 +164,9 @@ Three interconnected views:
 1. **SLA Monitoring Overview** — KPI cards (84.99% within SLA, 7.96% violation, 72.16 day avg TAT), trend line, stage-level TAT bar chart, SLA vs Approval Level breakdown
 2. **Request Type & Budget Value Analysis** — SLA compliance by request type and budget band (<17M, 17–36M, 36–220M, >220M)
 3. **Decomposition Tree** — interactive drill-down: Violation % → Level Group → Request Type → Category → Budget Range
+
+<img width="1020" height="561" alt="image" src="https://github.com/user-attachments/assets/7e4c928a-5272-4a42-b350-9edae17e3a0b" />
+
 
 ---
 
