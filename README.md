@@ -1,4 +1,4 @@
-<img width="1020" height="561" alt="image" src="https://github.com/user-attachments/assets/75a932af-1639-4fdf-a6cb-3c06b68df11f" /># Workflow Analytics for Improving Turnaround Time and SLA Compliance in Banking Operations
+# Workflow Analytics for Improving Turnaround Time and SLA Compliance in Banking Operations
 
 > **MBA Capstone Project** | BITS Pilani – Business Analytics (CGPA: 9.0/10)  
 > **Author:** Suryanarayan Satheesh Pillai | **ID:** 2024MB21248  
