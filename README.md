@@ -1,6 +1,6 @@
 # Workflow Analytics for Improving Turnaround Time and SLA Compliance in Banking Operations
 
-> **MBA Capstone Project** | BITS Pilani – Business Analytics (CGPA: 9.0/10)  
+> **MBA Capstone Project** | BITS Pilani – Business Analytics (CGPA: 9.07/10)  
 > **Author:** Suryanarayan Satheesh Pillai | **ID:** 2024MB21248  
 
 
